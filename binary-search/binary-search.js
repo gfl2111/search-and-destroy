@@ -34,11 +34,7 @@ const binarySearch = (array, target) => {
 	else return false
   }
   
-//   const array = [1, 2, 3, 4, 5, 6, 7, 8]
-  
-//   const target = 9 
-  
-//   binarySearch(array, target)
+  // Log(n) -- so continuosly divide in half.
 
 /*
 	EXTRA CREDIT:
